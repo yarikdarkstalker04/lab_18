@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Lendings>
+  <Lending>
+    <category>
+      <category>
+        Категория 1
+      </category>
+      <name>
+        Название 1
+      </name>
+      <note>
+        Примечание 1
+      </note>
+    </category>
+    <client>
+      <client>
+        Клиент 1
+      </client>
+      <last_name>
+        Фамилия 1
+      </last_name>
+      <first_name>
+        Имя 1
+      </first_name>
+      <middle_name>
+        Отчество 1
+      </middle_name>
+      <num_pasp>
+        
+      </num_pasp>
+      <seria_pasp>
+        МС
+      </seria_pasp>
+      <data_pasp>
+        1045376
+      </data_pasp>
+    </client>
+    <description>
+      Описание товара 1
+    </description>
+    <lending_data>
+      27.03.2022
+    </lending_data>
+    <return_data>
+      01.05.2022
+    </return_data>
+    <sum>
+      128
+    </sum>
+    <commission>
+      12.8
+    </commission>
+</Lending>
+</Lendings>

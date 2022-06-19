@@ -1,0 +1,7 @@
+E:\учеба\КПИЯП\Лаб 18\Лаб 18\Лаб 18\bin\Debug\Лаб 18.exe.config
+E:\учеба\КПИЯП\Лаб 18\Лаб 18\Лаб 18\bin\Debug\Лаб 18.exe
+E:\учеба\КПИЯП\Лаб 18\Лаб 18\Лаб 18\bin\Debug\Лаб 18.pdb
+E:\учеба\КПИЯП\Лаб 18\Лаб 18\Лаб 18\obj\Debug\Лаб 18.csprojAssemblyReference.cache
+E:\учеба\КПИЯП\Лаб 18\Лаб 18\Лаб 18\obj\Debug\Лаб 18.csproj.CoreCompileInputs.cache
+E:\учеба\КПИЯП\Лаб 18\Лаб 18\Лаб 18\obj\Debug\Лаб 18.exe
+E:\учеба\КПИЯП\Лаб 18\Лаб 18\Лаб 18\obj\Debug\Лаб 18.pdb
